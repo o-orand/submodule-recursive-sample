@@ -1,0 +1,3 @@
+[submodule "prometheus-boshrelease"]
+	path = prometheus-boshrelease
+	url = https://github.com/bosh-prometheus/prometheus-boshrelease
